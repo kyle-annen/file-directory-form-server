@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a954eb86-aa1c-4e67-a583-c1f9d6fc9e3c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$049394abcd1c73e311dd$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$049394abcd1c73e311dd.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$9c9fa0e29ca56f6e895b$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$9c9fa0e29ca56f6e895b.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$ad77085b8a6cdfd5159c$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$ad77085b8a6cdfd5159c.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$2b978a78b8720ea78edc$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$2b978a78b8720ea78edc$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$2b978a78b8720ea78edc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$2f53f65345e9da9abde8$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$2f53f65345e9da9abde8$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$2f53f65345e9da9abde8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$3217b527e5913308bb80$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$3217b527e5913308bb80$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$3217b527e5913308bb80.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$61f41d75e686dd689656$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$61f41d75e686dd689656$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$61f41d75e686dd689656.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$6c6dbb655ed8131d05d7$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$6c6dbb655ed8131d05d7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7e8647ec10701a55095d$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7e8647ec10701a55095d$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7e8647ec10701a55095d.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8a0e914f6b58829c278b$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8a0e914f6b58829c278b$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8a0e914f6b58829c278b.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8db6619e07557ab5ce2e$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8db6619e07557ab5ce2e$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8db6619e07557ab5ce2e.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9009ac93daffc754a86f$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9009ac93daffc754a86f$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9009ac93daffc754a86f.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$a670a43d104cbbf13fb0$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$a670a43d104cbbf13fb0$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$a670a43d104cbbf13fb0.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$afc2b3c134b4731d8714$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$afc2b3c134b4731d8714$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$afc2b3c134b4731d8714.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$cb39c6b12c38244b139c$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$cb39c6b12c38244b139c$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$cb39c6b12c38244b139c.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d16954353b7146e72219$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d16954353b7146e72219$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d16954353b7146e72219.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/turing_test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/rfc2616.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/github/kyleannen/webtictactoe/GameServer$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/github/kyleannen/webtictactoe/GameServer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/MaterialIcons-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/MaterialIcons-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/MaterialIcons-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/class_diagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/lato-v11-latin-100.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/lato-v11-latin-100.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/lato-v11-latin-100.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/lato-v11-latin-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/lato-v11-latin-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/lato-v11-latin-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/object_diagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/open-sans-v13-latin-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/open-sans-v13-latin-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/open-sans-v13-latin-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/ownderbg2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/ownerbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/ownerbg2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/source-code-pro-v6-latin-700.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/source-code-pro-v6-latin-700.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/source-code-pro-v6-latin-700.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/source-code-pro-v6-latin-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/source-code-pro-v6-latin-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/source-code-pro-v6-latin-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/trait_diagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/type_diagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_novocode_junit_interface_0_11_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__junit_junit_4_12_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_clojars_kyleannen_javaserver_0_5_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_junit_jupiter_junit_jupiter_api_5_0_0_M6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_junit_jupiter_junit_jupiter_engine_5_0_0_M6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_junit_jupiter_junit_jupiter_params_5_0_0_M6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_junit_platform_junit_platform_commons_1_0_0_M6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_junit_platform_junit_platform_engine_1_0_0_M6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_junit_platform_junit_platform_launcher_1_0_0_M6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_junit_vintage_junit_vintage_engine_4_12_0_M6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_opentest4j_opentest4j_1_0_0_M3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_12_1_0_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_12_1_0_6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_compiler_2_12_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_12_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_12_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_sbt_test_interface_1_0_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalactic_scalactic_2_12_3_0_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_12_3_0_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/file-directory-form-server-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/file-directory-form-server.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$049394abcd1c73e311dd.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$9c9fa0e29ca56f6e895b.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$ad77085b8a6cdfd5159c.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$2b978a78b8720ea78edc.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$2f53f65345e9da9abde8.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$3217b527e5913308bb80.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$61f41d75e686dd689656.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$6c6dbb655ed8131d05d7.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7e8647ec10701a55095d.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8a0e914f6b58829c278b.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8db6619e07557ab5ce2e.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9009ac93daffc754a86f.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$a670a43d104cbbf13fb0.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$afc2b3c134b4731d8714.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$cb39c6b12c38244b139c.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d16954353b7146e72219.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/file-directory-form-server-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/file-directory-form-server-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/webtictactoe-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/webtictactoe-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-file-directory-form-server-build-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-webtictactoe-build-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/404.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/form/form-result.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/form/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/helloworld/helloworld.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ping/pong.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/github/kyleannen/webtictactoe/GameServer.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/filedirectoryformserver/filedirectoryformserver$sources/0.1/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/filedirectoryformserver/filedirectoryformserver$sources/0.1/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/filedirectoryformserver/filedirectoryformserver/0.1/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/filedirectoryformserver/filedirectoryformserver/0.1/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-debian.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-docker.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-linux.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-rpm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-universal-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-universal-src.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-universal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver$sources-windows.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-debian.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-docker.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-linux.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-rpm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-universal-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-universal-src.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-universal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/filedirectoryformserver-filedirectoryformserver-windows.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-debian.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-docker.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-linux.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-rpm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-universal-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-universal-src.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-universal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe$sources-windows.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-debian.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-docker.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-linux.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-rpm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-universal-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-universal-src.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-universal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/webtictactoe-webtictactoe-windows.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/webtictactoe/webtictactoe$sources/0.1/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/webtictactoe/webtictactoe$sources/0.1/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/webtictactoe/webtictactoe/0.1/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/webtictactoe/webtictactoe/0.1/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/abstract_type.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/class.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/class_comp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/diagrams.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/diagrams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/jquery.panzoom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/object.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/object_comp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/object_comp_trait.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/package.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/ref-index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/scheduler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/tools.tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/trait.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/trait_comp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/980aba9b1d8a5e5659c1e061b4167ab35e411f29_b6b9ca202fc8405260d30e703b9790e91c75cd85_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/tools/nsc/doc/html/resource/lib/versions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fileDirectoryFormServer" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fileDirectoryFormServer" type="f1a62948:ProjectNode" />
+                <item name="file-directory-form-server" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugins.sbt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameServer.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/kyleannen/webtictactoe/GameServer.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/com/github/kyleannen/webtictactoe/GameServer.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-355" />
+    <option name="y" value="-1417" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fileDirectoryFormServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="file-directory-form-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fileDirectoryFormServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="file-directory-form-server" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fileDirectoryFormServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GameServer">
+    <configuration name="GameServer" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.github.kyleannen.webtictactoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.github.kyleannen.webtictactoe.GameServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="file-directory-form-server" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.GameServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1507231358678" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="fileDirectoryFormServer" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="file-directory-form-server" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="file-directory-form-server-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a954eb86-aa1c-4e67-a583-c1f9d6fc9e3c" name="Default" comment="" />
+      <created>1507230123066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507230123066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-355" y="-1417" width="2560" height="1417" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/kyleannen/webtictactoe/GameServer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
