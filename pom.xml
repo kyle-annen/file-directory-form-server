@@ -5,7 +5,7 @@
     <artifactId>filedirectoryformserver</artifactId>
     <packaging>jar</packaging>
     <description>fileDirectoryFormServer</description>
-    <version>0.1.1</version>
+    <version>0.1.0</version>
     <name>fileDirectoryFormServer</name>
     <organization>
         <name>filedirectoryformserver</name>
@@ -18,8 +18,8 @@
     </licenses>
     <url>http://github.com/kyle-annen/file-directory-form-server</url>
     <scm>
-        <connection> scm:git:git://github.com/kyle-annen/file-directory-form-servergit </connection>
-        <developerConnection> scm:git:ssh://github.com:kyle-annen/file-directory-form-servergit </developerConnection>
+        <connection> scm:git:git://github.com/kyle-annen/file-directory-form-server.git </connection>
+        <developerConnection> scm:git:ssh://github.com:kyle-annen/file-directory-form-server.git </developerConnection>
         <url> http://github.com/kyle-annen/file-directory-form-servertree/master </url>
     </scm>
     <distributionManagement>
@@ -73,6 +73,11 @@
             <groupId>org.clojars.kyleannen</groupId>
             <artifactId>javaserver</artifactId>
             <version>0.5.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.7.0</version>
         </dependency>
     </dependencies>
     <repositories>

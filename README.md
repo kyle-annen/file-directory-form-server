@@ -1,4 +1,4 @@
-# File Directory Form Server
+# File Directory Form Server [![Build Status](https://travis-ci.org/kyle-annen/file-directory-form-server.svg?branch=master)](https://travis-ci.org/kyle-annen/file-directory-form-server)
 
 This server serves a file directory, files, and a form.
 
